@@ -24,7 +24,6 @@ a {
     text-align: center;
     color: rgb(210, 180, 9);
     font-family: initial;
-    ;
 }
 
 h1 {
@@ -39,6 +38,7 @@ h1 {
     background-color: rgb(58, 14, 14);
     padding: 10px;
     color: rgb(210, 180, 9);
+    font-family:'Courier New', Courier, monospace
 }
 
 
